@@ -1,4 +1,4 @@
-# O meu trabalho Git
+# \# Projeto de Introdução à Computação - Versão B
 
 Este trabalho serve para praticar Git.
 
