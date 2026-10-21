@@ -1,16 +1,17 @@
 HEAD
+
 # Projeto de Introdução à Computação - Versão B
+
 Este trabalho serve para praticar Git.
 
 
 
-##Funcionalidades
+\## Funcionalidades
 
 
 
- - Permite guardar comandos
-
- - Permite guardar projeto
+* Permite guardar comandos
+* Permite guardar projeto
 
 
 
@@ -18,7 +19,6 @@ Este trabalho serve para praticar Git.
 
 
 
-- Aprendi a usar o Git para guardar versões.
-
-- Aprendi a sincronizar o projeto com o GitHub.
+* Aprendi a usar o Git para guardar versões.
+* Aprendi a sincronizar o projeto com o GitHub.
 
