@@ -14,3 +14,11 @@ Funcionalidades
 
 
 
+\## O que aprendi
+
+
+
+\- Aprendi a usar o Git para guardar versões.
+
+\- Aprendi a sincronizar o projeto com o GitHub.
+
