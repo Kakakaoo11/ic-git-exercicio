@@ -1,0 +1,2 @@
+Nesta aula aprendi a usar o Git.
+Aprendi a adicionar e guardar ficheiros.
